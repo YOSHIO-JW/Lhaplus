@@ -1,0 +1,3 @@
+# Lhaplus
+Excel VBAを使って、ExcelのシートをPDF化し、Lhaplusでパスワードをつけて圧縮する。
+Pythonプログラムを使って、Excelシートの送信先リスト宛てにLhaplusで圧縮したZipファイルを添付して送信する。
